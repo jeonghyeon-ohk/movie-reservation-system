@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/Program Files/Java/jdk-22/jdk-22.iml" filepath="C:/Program Files/Java/jdk-22/jdk-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-reservation-system.iml" filepath="$PROJECT_DIR$/movie-reservation-system.iml" />
+    </modules>
+  </component>
+</project>
